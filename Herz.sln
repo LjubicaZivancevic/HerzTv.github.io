@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herz", "Herz\Herz.csproj", "{CC8889C7-421B-4531-B339-C82CDC50465B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8889C7-421B-4531-B339-C82CDC50465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8889C7-421B-4531-B339-C82CDC50465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8889C7-421B-4531-B339-C82CDC50465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8889C7-421B-4531-B339-C82CDC50465B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20ED5531-BC24-461B-815F-AB0FA18C1EFA}
+	EndGlobalSection
+EndGlobal
